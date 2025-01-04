@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **frontend**
 
-- 💬 Ask me about **react, vue and vite**
+- 💬 Ask me about **react, Vue and vite**
 
 - 📫 How to reach me **dev.xunnureen@gmail.com**
 
